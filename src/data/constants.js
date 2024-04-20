@@ -10,7 +10,7 @@ export const Bio = {
       "As a driven and adaptable individual, I embrace new challenges with enthusiasm. Fueled by a love for continuous learning, I am committed to producing top-notch outcomes. With an optimistic outlook and a mindset geared towards growth, I am prepared to make significant contributions and accomplish remarkable feats.",
     github: "https://github.com/Tripathigaurav02",
     resume:
-      "https://drive.google.com/file/d/1ImpOR3Ggn5NwZYEk2yF-xhnMnChfrtNN/view?usp=sharing",
+      "https://drive.google.com/file/d/1p_s5yOUM8XtgK5zyqLqhKE45s-WA4pkL/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/gaurav-kumar-tripathi-4302831b5/",
     twitter: "https://twitter.com/Gaurav_0216",
     insta: "https://www.instagram.com/gauravxtripathii/",
